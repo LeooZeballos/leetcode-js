@@ -30,6 +30,7 @@ node <folder>/<problem-name>.js
 |183|[Customers Who Never Order](https://leetcode.com/problems/customers-who-never-order/)|[SQL](./183.%20Customers%20Who%20Never%20Order/v1.sql)|Easy|
 |217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)|[JavaScript](./217.%20Contains%20Duplicate/v1.js)|Easy|
 |344|[Reverse String](https://leetcode.com/problems/reverse-string/)|[JavaScript](./344.%20Reverse%20String/v1.js)|Easy|
+|452|[Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/)|[JavaScript](./452.%20Minimum%20Number%20of%20Arrows%20to%20Burst%20Balloons/v1.js)|Medium|
 |584|[Find Customer Referee](https://leetcode.com/problems/find-customer-referee/)|[SQL](./584.%20Find%20Customer%20Referee/v1.sql)|Easy|
 |595|[Big Countries](https://leetcode.com/problems/big-countries/)|[SQL](./595.%20Big%20Countries/v1.sql)|Easy|
 |704|[Binary Search](https://leetcode.com/problems/binary-search/)|[JavaScript](./704.%20Binary%20Search/v1.js)|Easy|
