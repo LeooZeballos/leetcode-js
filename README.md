@@ -29,6 +29,7 @@ node <folder>/<problem-name>.js
 |58|[Length of Last Word](https://leetcode.com/problems/length-of-last-word/)|[JavaScript](./58.%20Length%20of%20Last%20Word/v1.js)|Easy|
 |217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)|[JavaScript](./217.%20Contains%20Duplicate/v1.js)|Easy|
 |344|[Reverse String](https://leetcode.com/problems/reverse-string/)|[JavaScript](./344.%20Reverse%20String/v1.js)|Easy|
+|584|[Find Customer Referee](https://leetcode.com/problems/find-customer-referee/)|[SQL](./584.%20Find%20Customer%20Referee/v1.sql)|Easy|
 |595|[Big Countries](https://leetcode.com/problems/big-countries/)|[SQL](./595.%20Big%20Countries/v1.sql)|Easy|
 |704|[Binary Search](https://leetcode.com/problems/binary-search/)|[JavaScript](./704.%20Binary%20Search/v1.js)|Easy|
 |724|[Find Pivot Index](https://leetcode.com/problems/find-pivot-index/)|[JavaScript](./724.%20Find%20Pivot%20Index/v1.js)|Easy|
