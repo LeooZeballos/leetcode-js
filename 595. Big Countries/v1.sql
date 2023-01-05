@@ -1,6 +1,5 @@
 -- 595. Big Countries
 
-# Write your MySQL query statement below
 SELECT
   name,
   population,

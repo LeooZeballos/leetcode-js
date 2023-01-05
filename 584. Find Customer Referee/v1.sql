@@ -1,7 +1,5 @@
 -- 584. Find Customer Referee
 
-# Write your MySQL query statement below
-
 SELECT
   name
 FROM Customer
