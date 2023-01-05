@@ -28,6 +28,7 @@ node <folder>/<problem-name>.js
 |53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)|[JavaScript](./53-maximum-subarray.js)|Easy|
 |58|[Length of Last Word](https://leetcode.com/problems/length-of-last-word/)|[JavaScript](./58-length-of-last-word.js)|Easy|
 |217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)|[JavaScript](./217-contains-duplicate.js)|Easy|
+|704|[Binary Search](https://leetcode.com/problems/binary-search/)|[JavaScript](./704-binary-search.js)|Easy|
 |724|[Find Pivot Index](https://leetcode.com/problems/find-pivot-index/)|[JavaScript](./724-find-pivot-index.js)|Easy|
 |1480|[Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/)|[JavaScript](./1480-running-sum-of-1d-array.js)|Easy|
 
