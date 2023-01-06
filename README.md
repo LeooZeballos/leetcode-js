@@ -29,6 +29,7 @@ node <folder>/<problem-name>.js
 |53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)|[JavaScript](./53.%20Maximum%20Subarray/v1.js)|Easy|
 |58|[Length of Last Word](https://leetcode.com/problems/length-of-last-word/)|[JavaScript](./58.%20Length%20of%20Last%20Word/v1.js)|Easy|
 |66|[Plus One](https://leetcode.com/problems/plus-one/)|[JavaScript](./66.%20Plus%20One/v1.js)|Easy|
+|88|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)|[JavaScript](./88.%20Merge%20Sorted%20Array/v1.js)|Easy|
 |183|[Customers Who Never Order](https://leetcode.com/problems/customers-who-never-order/)|[SQL](./183.%20Customers%20Who%20Never%20Order/v1.sql)|Easy|
 |205|[Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)|[JavaScript](./205.%20Isomorphic%20Strings/v1.js)|Easy|
 |217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)|[JavaScript](./217.%20Contains%20Duplicate/v1.js)|Easy|
