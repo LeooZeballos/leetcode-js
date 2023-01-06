@@ -40,6 +40,7 @@ node <folder>/<problem-name>.js
 |595|[Big Countries](https://leetcode.com/problems/big-countries/)|[SQL](./595.%20Big%20Countries/v1.sql)|Easy|
 |704|[Binary Search](https://leetcode.com/problems/binary-search/)|[JavaScript](./704.%20Binary%20Search/v1.js)|Easy|
 |724|[Find Pivot Index](https://leetcode.com/problems/find-pivot-index/)|[JavaScript](./724.%20Find%20Pivot%20Index/v1.js)|Easy|
+|977|[Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)|[JavaScript](./977.%20Squares%20of%20a%20Sorted%20Array/v1.js)|Easy|
 |1480|[Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/)|[JavaScript](./1480.%20Running%20Sum%20of%201d%20Array/v1.js)|Easy|
 |1757|[Recyclable and Low Fat Products](https://leetcode.com/problems/recyclable-and-low-fat-products/)|[SQL](./1757.%20Recyclable%20and%20Low%20Fat%20Products/v1.sql)|Easy|
 
