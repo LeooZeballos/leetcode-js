@@ -40,6 +40,7 @@ node <folder>/<problem-name>.js
 |724|[Find Pivot Index](https://leetcode.com/problems/find-pivot-index/)|[JavaScript](./724.%20Find%20Pivot%20Index/v1.js)|Easy|
 |977|[Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)|[JavaScript](./977.%20Squares%20of%20a%20Sorted%20Array/v1.js)|Easy|
 |1480|[Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/)|[JavaScript](./1480.%20Running%20Sum%20of%201d%20Array/v1.js)|Easy|
+|1833|[Maximum Ice Cream Bars](https://leetcode.com/problems/maximum-ice-cream-bars/)|[JavaScript](./1833.%20Maximum%20Ice%20Cream%20Bars/v1.js)|Medium|
 
 ## License
 [MIT License](https://choosealicense.com/licenses/mit/)
