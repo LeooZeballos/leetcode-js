@@ -30,20 +30,16 @@ node <folder>/<problem-name>.js
 |58|[Length of Last Word](https://leetcode.com/problems/length-of-last-word/)|[JavaScript](./58.%20Length%20of%20Last%20Word/v1.js)|Easy|
 |66|[Plus One](https://leetcode.com/problems/plus-one/)|[JavaScript](./66.%20Plus%20One/v1.js)|Easy|
 |88|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)|[JavaScript](./88.%20Merge%20Sorted%20Array/v1.js)|Easy|
-|183|[Customers Who Never Order](https://leetcode.com/problems/customers-who-never-order/)|[SQL](./183.%20Customers%20Who%20Never%20Order/v1.sql)|Easy|
 |189|[Rotate Array](https://leetcode.com/problems/rotate-array/)|[JavaScript](./189.%20Rotate%20Array/v1.js)|Medium|
 |205|[Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)|[JavaScript](./205.%20Isomorphic%20Strings/v1.js)|Easy|
 |217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)|[JavaScript](./217.%20Contains%20Duplicate/v1.js)|Easy|
 |344|[Reverse String](https://leetcode.com/problems/reverse-string/)|[JavaScript](./344.%20Reverse%20String/v1.js)|Easy|
 |392|[Is Subsequence](https://leetcode.com/problems/is-subsequence/)|[JavaScript](./392.%20Is%20Subsequence/v1.js)|Easy|
 |452|[Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/)|[JavaScript](./452.%20Minimum%20Number%20of%20Arrows%20to%20Burst%20Balloons/v1.js)|Medium|
-|584|[Find Customer Referee](https://leetcode.com/problems/find-customer-referee/)|[SQL](./584.%20Find%20Customer%20Referee/v1.sql)|Easy|
-|595|[Big Countries](https://leetcode.com/problems/big-countries/)|[SQL](./595.%20Big%20Countries/v1.sql)|Easy|
 |704|[Binary Search](https://leetcode.com/problems/binary-search/)|[JavaScript](./704.%20Binary%20Search/v1.js)|Easy|
 |724|[Find Pivot Index](https://leetcode.com/problems/find-pivot-index/)|[JavaScript](./724.%20Find%20Pivot%20Index/v1.js)|Easy|
 |977|[Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)|[JavaScript](./977.%20Squares%20of%20a%20Sorted%20Array/v1.js)|Easy|
 |1480|[Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/)|[JavaScript](./1480.%20Running%20Sum%20of%201d%20Array/v1.js)|Easy|
-|1757|[Recyclable and Low Fat Products](https://leetcode.com/problems/recyclable-and-low-fat-products/)|[SQL](./1757.%20Recyclable%20and%20Low%20Fat%20Products/v1.sql)|Easy|
 
 ## License
 [MIT License](https://choosealicense.com/licenses/mit/)
