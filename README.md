@@ -31,6 +31,7 @@ node <folder>/<problem-name>.js
 |66|[Plus One](https://leetcode.com/problems/plus-one/)|[JavaScript](./66.%20Plus%20One/v1.js)|Easy|
 |88|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)|[JavaScript](./88.%20Merge%20Sorted%20Array/v1.js)|Easy|
 |121|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)|[JavaScript](./121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock/v1.js)|Easy|
+|167|[Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)|[JavaScript](./167.%20Two%20Sum%20II%20-%20Input%20array%20is%20sorted/v1.js)|Medium|
 |189|[Rotate Array](https://leetcode.com/problems/rotate-array/)|[JavaScript](./189.%20Rotate%20Array/v1.js)|Medium|
 |205|[Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)|[JavaScript](./205.%20Isomorphic%20Strings/v1.js)|Easy|
 |206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)|[JavaScript](./206.%20Reverse%20Linked%20List/v1.js)|Easy|
