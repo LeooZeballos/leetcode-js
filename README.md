@@ -32,6 +32,7 @@ node <folder>/<problem-name>.js
 |88|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)|[JavaScript](./88.%20Merge%20Sorted%20Array/v1.js)|Easy|
 |189|[Rotate Array](https://leetcode.com/problems/rotate-array/)|[JavaScript](./189.%20Rotate%20Array/v1.js)|Medium|
 |205|[Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)|[JavaScript](./205.%20Isomorphic%20Strings/v1.js)|Easy|
+|206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)|[JavaScript](./206.%20Reverse%20Linked%20List/v1.js)|Easy|
 |217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)|[JavaScript](./217.%20Contains%20Duplicate/v1.js)|Easy|
 |344|[Reverse String](https://leetcode.com/problems/reverse-string/)|[JavaScript](./344.%20Reverse%20String/v1.js)|Easy|
 |392|[Is Subsequence](https://leetcode.com/problems/is-subsequence/)|[JavaScript](./392.%20Is%20Subsequence/v1.js)|Easy|
