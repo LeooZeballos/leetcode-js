@@ -35,6 +35,7 @@ node <folder>/<problem-name>.js
 |205|[Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)|[JavaScript](./205.%20Isomorphic%20Strings/v1.js)|Easy|
 |206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)|[JavaScript](./206.%20Reverse%20Linked%20List/v1.js)|Easy|
 |217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)|[JavaScript](./217.%20Contains%20Duplicate/v1.js)|Easy|
+|283|[Move Zeroes](https://leetcode.com/problems/move-zeroes/)|[JavaScript](./283.%20Move%20Zeroes/v1.js)|Easy|
 |344|[Reverse String](https://leetcode.com/problems/reverse-string/)|[JavaScript](./344.%20Reverse%20String/v1.js)|Easy|
 |350|[Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)|[JavaScript](./350.%20Intersection%20of%20Two%20Arrays%20II/v1.js)|Easy|
 |392|[Is Subsequence](https://leetcode.com/problems/is-subsequence/)|[JavaScript](./392.%20Is%20Subsequence/v1.js)|Easy|
