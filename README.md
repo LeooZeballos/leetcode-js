@@ -43,6 +43,7 @@ node <folder>/<problem-name>.js
 |350|[Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)|[JavaScript](./350.%20Intersection%20of%20Two%20Arrays%20II/v1.js)|Easy|
 |392|[Is Subsequence](https://leetcode.com/problems/is-subsequence/)|[JavaScript](./392.%20Is%20Subsequence/v1.js)|Easy|
 |452|[Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/)|[JavaScript](./452.%20Minimum%20Number%20of%20Arrows%20to%20Burst%20Balloons/v1.js)|Medium|
+|566|[Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/)|[JavaScript](./566.%20Reshape%20the%20Matrix/v1.js)|Easy|
 |704|[Binary Search](https://leetcode.com/problems/binary-search/)|[JavaScript](./704.%20Binary%20Search/v1.js)|Easy|
 |724|[Find Pivot Index](https://leetcode.com/problems/find-pivot-index/)|[JavaScript](./724.%20Find%20Pivot%20Index/v1.js)|Easy|
 |876|[Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)|[JavaScript](./876.%20Middle%20of%20the%20Linked%20List/v1.js)|Easy|
