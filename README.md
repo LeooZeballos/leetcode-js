@@ -30,6 +30,7 @@ node <folder>/<problem-name>.js
 |58|[Length of Last Word](https://leetcode.com/problems/length-of-last-word/)|[JavaScript](./58.%20Length%20of%20Last%20Word/v1.js)|Easy|
 |66|[Plus One](https://leetcode.com/problems/plus-one/)|[JavaScript](./66.%20Plus%20One/v1.js)|Easy|
 |88|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)|[JavaScript](./88.%20Merge%20Sorted%20Array/v1.js)|Easy|
+|118|[Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)|[JavaScript](./118.%20Pascal's%20Triangle/v1.js)|Easy|
 |121|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)|[JavaScript](./121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock/v1.js)|Easy|
 |134|[Gas Station](https://leetcode.com/problems/gas-station/)|[JavaScript](./134.%20Gas%20Station/v1.js)|Medium|
 |142|[Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/)|[JavaScript](./142.%20Linked%20List%20Cycle%20II/v1.js)|Medium|
