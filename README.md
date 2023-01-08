@@ -44,6 +44,7 @@ node <folder>/<problem-name>.js
 |452|[Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/)|[JavaScript](./452.%20Minimum%20Number%20of%20Arrows%20to%20Burst%20Balloons/v1.js)|Medium|
 |704|[Binary Search](https://leetcode.com/problems/binary-search/)|[JavaScript](./704.%20Binary%20Search/v1.js)|Easy|
 |724|[Find Pivot Index](https://leetcode.com/problems/find-pivot-index/)|[JavaScript](./724.%20Find%20Pivot%20Index/v1.js)|Easy|
+|876|[Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)|[JavaScript](./876.%20Middle%20of%20the%20Linked%20List/v1.js)|Easy|
 |977|[Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)|[JavaScript](./977.%20Squares%20of%20a%20Sorted%20Array/v1.js)|Easy|
 |1480|[Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/)|[JavaScript](./1480.%20Running%20Sum%20of%201d%20Array/v1.js)|Easy|
 |1833|[Maximum Ice Cream Bars](https://leetcode.com/problems/maximum-ice-cream-bars/)|[JavaScript](./1833.%20Maximum%20Ice%20Cream%20Bars/v1.js)|Medium|
