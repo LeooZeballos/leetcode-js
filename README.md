@@ -30,6 +30,7 @@ node <folder>/<problem-name>.js
 |53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)|[JavaScript](./src/53.%20Maximum%20Subarray/v1.js)|Easy|
 |58|[Length of Last Word](https://leetcode.com/problems/length-of-last-word/)|[JavaScript](./src/58.%20Length%20of%20Last%20Word/v1.js)|Easy|
 |66|[Plus One](https://leetcode.com/problems/plus-one/)|[JavaScript](./src/66.%20Plus%20One/v1.js)|Easy|
+|74|[Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)|[JavaScript](./src/74.%20Search%20a%202D%20Matrix/v1.js)|Medium|
 |88|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)|[JavaScript](./src/88.%20Merge%20Sorted%20Array/v1.js)|Easy|
 |118|[Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)|[JavaScript](./src/118.%20Pascal's%20Triangle/v1.js)|Easy|
 |121|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)|[JavaScript](./src/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock/v1.js)|Easy|
