@@ -25,6 +25,7 @@ node <folder>/<problem-name>.js
 |26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)|[JavaScript](./src/26.%20Remove%20Duplicates%20from%20Sorted%20Array/v1.js)|Easy|
 |27|[Remove Element](https://leetcode.com/problems/remove-element/)|[JavaScript](./src/27.%20Remove%20Element/v1.js)|Easy|
 |35|[Search Insert Position](https://leetcode.com/problems/search-insert-position/)|[JavaScript](./src/35.%20Search%20Insert%20Position/v1.js)|Easy|
+|36|[Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)|[JavaScript](./src/36.%20Valid%20Sudoku/v1.js)|Medium|
 |46|[Permutations](https://leetcode.com/problems/permutations/)|[JavaScript](./src/46.%20Permutations/v1.js)|Medium|
 |53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)|[JavaScript](./src/53.%20Maximum%20Subarray/v1.js)|Easy|
 |58|[Length of Last Word](https://leetcode.com/problems/length-of-last-word/)|[JavaScript](./src/58.%20Length%20of%20Last%20Word/v1.js)|Easy|
