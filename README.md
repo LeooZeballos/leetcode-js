@@ -34,6 +34,7 @@ node <folder>/<problem-name>.js
 |121|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)|[JavaScript](./src/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock/v1.js)|Easy|
 |134|[Gas Station](https://leetcode.com/problems/gas-station/)|[JavaScript](./src/134.%20Gas%20Station/v1.js)|Medium|
 |142|[Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/)|[JavaScript](./src/142.%20Linked%20List%20Cycle%20II/v1.js)|Medium|
+|144|[Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/)|[JavaScript](./src/144.%20Binary%20Tree%20Preorder%20Traversal/v1.js)|Easy|
 |149|[Max Points on a Line](https://leetcode.com/problems/max-points-on-a-line/)|[JavaScript](./src/149.%20Max%20Points%20on%20a%20Line/v1.js)|Hard|
 |167|[Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)|[JavaScript](./src/167.%20Two%20Sum%20II%20-%20Input%20array%20is%20sorted/v1.js)|Medium|
 |189|[Rotate Array](https://leetcode.com/problems/rotate-array/)|[JavaScript](./src/189.%20Rotate%20Array/v1.js)|Medium|
