@@ -58,6 +58,7 @@ node <folder>/<problem-name>.js
 |452|[Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/)|[JavaScript](./src/452.%20Minimum%20Number%20of%20Arrows%20to%20Burst%20Balloons/v1.js)|Medium|
 |557|[Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/)|[JavaScript](./src/557.%20Reverse%20Words%20in%20a%20String%20III/v1.js)|Easy|
 |566|[Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/)|[JavaScript](./src/566.%20Reshape%20the%20Matrix/v1.js)|Easy|
+|567|[Permutation in String](https://leetcode.com/problems/permutation-in-string/)|[JavaScript](./src/567.%20Permutation%20in%20String/v1.js)|Medium|
 |589|[N-ary Tree Preorder Traversal](https://leetcode.com/problems/n-ary-tree-preorder-traversal/)|[JavaScript](./src/589.%20N-ary%20Tree%20Preorder%20Traversal/v1.js)|Easy|
 |704|[Binary Search](https://leetcode.com/problems/binary-search/)|[JavaScript](./src/704.%20Binary%20Search/v1.js)|Easy|
 |724|[Find Pivot Index](https://leetcode.com/problems/find-pivot-index/)|[JavaScript](./src/724.%20Find%20Pivot%20Index/v1.js)|Easy|
