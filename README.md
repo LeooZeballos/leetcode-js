@@ -50,6 +50,7 @@ node <folder>/<problem-name>.js
 |290|[Word Pattern](https://leetcode.com/problems/word-pattern/)|[JavaScript](./src/290.%20Word%20Pattern/v1.js)|Easy|
 |344|[Reverse String](https://leetcode.com/problems/reverse-string/)|[JavaScript](./src/344.%20Reverse%20String/v1.js)|Easy|
 |350|[Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)|[JavaScript](./src/350.%20Intersection%20of%20Two%20Arrays%20II/v1.js)|Easy|
+|383|[Ransom Note](https://leetcode.com/problems/ransom-note/)|[JavaScript](./src/383.%20Ransom%20Note/v1.js)|Easy|
 |387|[First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)|[JavaScript](./src/387.%20First%20Unique%20Character%20in%20a%20String/v2.js)|Easy|
 |392|[Is Subsequence](https://leetcode.com/problems/is-subsequence/)|[JavaScript](./src/392.%20Is%20Subsequence/v1.js)|Easy|
 |409|[Longest Palindrome](https://leetcode.com/problems/longest-palindrome/)|[JavaScript](./src/409.%20Longest%20Palindrome/v1.js)|Easy|
