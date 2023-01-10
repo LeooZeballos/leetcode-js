@@ -46,6 +46,7 @@ node <folder>/<problem-name>.js
 |205|[Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)|[JavaScript](./src/205.%20Isomorphic%20Strings/v1.js)|Easy|
 |206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)|[JavaScript](./src/206.%20Reverse%20Linked%20List/v1.js)|Easy|
 |217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)|[JavaScript](./src/217.%20Contains%20Duplicate/v1.js)|Easy|
+|242|[Valid Anagram](https://leetcode.com/problems/valid-anagram/)|[JavaScript](./src/242.%20Valid%20Anagram/v1.js)|Easy|
 |283|[Move Zeroes](https://leetcode.com/problems/move-zeroes/)|[JavaScript](./src/283.%20Move%20Zeroes/v1.js)|Easy|
 |290|[Word Pattern](https://leetcode.com/problems/word-pattern/)|[JavaScript](./src/290.%20Word%20Pattern/v1.js)|Easy|
 |344|[Reverse String](https://leetcode.com/problems/reverse-string/)|[JavaScript](./src/344.%20Reverse%20String/v1.js)|Easy|
