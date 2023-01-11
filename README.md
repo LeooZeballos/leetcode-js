@@ -62,6 +62,7 @@ node <folder>/<problem-name>.js
 |566|[Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/)|[JavaScript](./src/566.%20Reshape%20the%20Matrix/v1.js)|Easy|
 |567|[Permutation in String](https://leetcode.com/problems/permutation-in-string/)|[JavaScript](./src/567.%20Permutation%20in%20String/v1.js)|Medium|
 |589|[N-ary Tree Preorder Traversal](https://leetcode.com/problems/n-ary-tree-preorder-traversal/)|[JavaScript](./src/589.%20N-ary%20Tree%20Preorder%20Traversal/v1.js)|Easy|
+|695|[Max Area of Island](https://leetcode.com/problems/max-area-of-island/)|[JavaScript](./src/695.%20Max%20Area%20of%20Island/v1.js)|Medium|
 |704|[Binary Search](https://leetcode.com/problems/binary-search/)|[JavaScript](./src/704.%20Binary%20Search/v1.js)|Easy|
 |724|[Find Pivot Index](https://leetcode.com/problems/find-pivot-index/)|[JavaScript](./src/724.%20Find%20Pivot%20Index/v1.js)|Easy|
 |733|[Flood Fill](https://leetcode.com/problems/flood-fill/)|[JavaScript](./src/733.%20Flood%20Fill/v1.js)|Easy|
