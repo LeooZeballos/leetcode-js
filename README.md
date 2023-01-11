@@ -64,6 +64,7 @@ node <folder>/<problem-name>.js
 |724|[Find Pivot Index](https://leetcode.com/problems/find-pivot-index/)|[JavaScript](./src/724.%20Find%20Pivot%20Index/v1.js)|Easy|
 |876|[Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)|[JavaScript](./src/876.%20Middle%20of%20the%20Linked%20List/v1.js)|Easy|
 |977|[Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)|[JavaScript](./src/977.%20Squares%20of%20a%20Sorted%20Array/v1.js)|Easy|
+|1443|[Minimum Time to Collect All Apples in a Tree](https://leetcode.com/problems/minimum-time-to-collect-all-apples-in-a-tree/)|[JavaScript](./src/1443.%20Minimum%20Time%20to%20Collect%20All%20Apples%20in%20a%20Tree/v1.js)|Medium|
 |1480|[Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/)|[JavaScript](./src/1480.%20Running%20Sum%20of%201d%20Array/v1.js)|Easy|
 |1833|[Maximum Ice Cream Bars](https://leetcode.com/problems/maximum-ice-cream-bars/)|[JavaScript](./src/1833.%20Maximum%20Ice%20Cream%20Bars/v1.js)|Medium|
 
