@@ -1,9 +1,6 @@
 // 235. Lowest Common Ancestor of a Binary Search Tree
 
-function TreeNode(val) {
-  this.val = val;
-  this.left = this.right = null;
-}
+const { TreeNode } = require('../utils');
 
 /**
  * @param {TreeNode} root

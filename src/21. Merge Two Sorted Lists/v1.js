@@ -1,9 +1,6 @@
 // 21. Merge Two Sorted Lists
 
-function ListNode(val, next) {
-  this.val = val === undefined ? 0 : val;
-  this.next = next === undefined ? null : next;
-}
+const { ListNode } = require("../utils.js");
 
 /**
  * @param {ListNode} list1

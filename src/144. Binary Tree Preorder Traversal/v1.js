@@ -1,10 +1,6 @@
 // 144. Binary Tree Preorder Traversal
 
-function TreeNode(val, left, right) {
-  this.val = (val===undefined ? 0 : val)
-  this.left = (left===undefined ? null : left)
-  this.right = (right===undefined ? null : right)
-}
+const { constructTree, TreeNode } = require('../utils');
 
 /**
  * @param {TreeNode} root
@@ -25,6 +21,15 @@ var preorderTraversal = function(root) {
 };
 
 // Test cases
-console.log(preorderTraversal(new TreeNode(1, null, new TreeNode(2, new TreeNode(3), null)))); // [1,2,3]
-console.log(preorderTraversal(new TreeNode())); // []
-console.log(preorderTraversal(new TreeNode(1))); // [1]
+let tests = [
+  {input: [1, null, 2, 3], expected: [1, 2, 3]},
+  {input: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15], expected: [1, 2, 4, 8, 9, 5, 10, 11, 3, 6, 12, 13, 7, 14, 15]},
+  {input: [], expected: []},
+]
+
+// Run tests
+for (let test of tests) {
+  console.log("Test case: " + test.input);
+  console.log("Expected: " + test.expected);
+  console.log("Result: " + preorderTraversal(constructTree(test.input)));
+}

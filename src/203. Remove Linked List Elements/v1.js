@@ -1,9 +1,6 @@
 // 203. Remove Linked List Elements
 
-function ListNode(val, next) {
-  this.val = val === undefined ? 0 : val;
-  this.next = next === undefined ? null : next;
-}
+const { ListNode, constructLinkedList } = require("../utils.js");
 
 /**
  * @param {ListNode} head
@@ -32,25 +29,24 @@ var removeElements = function (head, val) {
 };
 
 // Test cases
-console.log(
-  removeElements(
-    new ListNode(
-      1,
-      new ListNode(
-        2,
-        new ListNode(
-          6,
-          new ListNode(3, new ListNode(4, new ListNode(5, new ListNode(6))))
-        )
-      )
-    ),
-    6
-  )
-); // [1,2,3,4,5]
-console.log(removeElements(null, 1)); // []
-console.log(
-  removeElements(
-    new ListNode(7, new ListNode(7, new ListNode(7, new ListNode(7)))),
-    7
-  )
-); // []
+let tests = [
+  {head: [1, 2, 6, 3, 4, 5, 6], val: 6, expected: [1, 2, 3, 4, 5]},
+  {head: [1, 2, 2, 1], val: 2, expected: [1, 1]},
+  {head: [1, 1], val: 1, expected: []},
+  {head: [1], val: 1, expected: []},
+  {head: [], val: 1, expected: []},
+  {head: [7, 7, 7, 7], val: 7, expected: []},
+  {head: [7, 7, 7, 7], val: 6, expected: [7, 7, 7, 7]},
+  {head: [1, 2, 2, 1], val: 3, expected: [1, 2, 2, 1]},
+]
+
+tests.forEach(test => {
+  let head = constructLinkedList(test.head);
+  let result = removeElements(head, test.val);
+  let resultArr = [];
+  while (result) {
+    resultArr.push(result.val);
+    result = result.next;
+  }
+  console.log(resultArr, test.expected);
+});

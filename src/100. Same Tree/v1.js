@@ -1,10 +1,7 @@
 // 100. Same Tree
 
-function TreeNode(val, left, right) {
-  this.val = (val===undefined ? 0 : val)
-  this.left = (left===undefined ? null : left)
-  this.right = (right===undefined ? null : right)
-}
+const { constructTree, TreeNode } = require('../utils');
+
 /**
  * @param {TreeNode} p
  * @param {TreeNode} q
@@ -24,6 +21,21 @@ var isSameTree = function(p, q) {
 };
 
 // Test cases
-console.log(isSameTree(new TreeNode(1, new TreeNode(2), new TreeNode(3)), new TreeNode(1, new TreeNode(2), new TreeNode(3)))); // true
-console.log(isSameTree(new TreeNode(1, new TreeNode(2)), new TreeNode(1, null, new TreeNode(2)))); // false
-console.log(isSameTree(new TreeNode(1, new TreeNode(2), new TreeNode(1)), new TreeNode(1, new TreeNode(1), new TreeNode(2)))); // false
+let tests = [
+  [[1,2,3], [1,2,3]],
+  [[1,2], [1,null,2]],
+  [[1,2,1], [1,1,2]],
+]
+
+let expected = [
+  true,
+  false,
+  false,
+]
+
+// Run tests
+for (let test of tests) {
+  console.log("Test case: " + test);
+  console.log("Expected: " + expected[tests.indexOf(test)]);
+  console.log("Result: " + isSameTree(constructTree(test[0]), constructTree(test[1])));
+}

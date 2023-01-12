@@ -1,10 +1,6 @@
 // 98. Validate Binary Search Tree
 
-function TreeNode(val, left, right) {
-  this.val = (val===undefined ? 0 : val)
-  this.left = (left===undefined ? null : left)
-  this.right = (right===undefined ? null : right)
-}
+const { constructTree, TreeNode } = require('../utils');
 
 /**
  * @param {TreeNode} root
@@ -25,6 +21,21 @@ var isValidBST = function(root) {
 };
 
 // Test cases
-console.log(isValidBST(new TreeNode(2, new TreeNode(1), new TreeNode(3)))); // true
-console.log(isValidBST(new TreeNode(5, new TreeNode(1), new TreeNode(4, new TreeNode(3), new TreeNode(6))))); // false
-console.log(isValidBST(new TreeNode(5, new TreeNode(4), new TreeNode(6, new TreeNode(3), new TreeNode(7))))); // false
+let tests = [
+  [2,1,3],
+  [5,1,4,null,null,3,6],
+  [5,4,6,null,null,3,7],
+]
+
+let expected = [
+  true,
+  false,
+  false,
+]
+
+// Run tests
+for (let test of tests) {
+  console.log("Test case: " + test);
+  console.log("Expected: " + expected[tests.indexOf(test)]);
+  console.log("Result: " + isValidBST(constructTree(test)));
+}

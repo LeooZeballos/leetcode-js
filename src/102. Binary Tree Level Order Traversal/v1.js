@@ -1,10 +1,6 @@
 // 102. Binary Tree Level Order Traversal
 
-function TreeNode(val, left, right) {
-  this.val = val === undefined ? 0 : val;
-  this.left = left === undefined ? null : left;
-  this.right = right === undefined ? null : right;
-}
+const { constructTree, TreeNode } = require('../utils');
 
 /**
  * @param {TreeNode} root
@@ -26,14 +22,6 @@ var levelOrder = function (root) {
 };
 
 // Test cases
-console.log(
-  levelOrder(
-    new TreeNode(
-      3,
-      new TreeNode(9),
-      new TreeNode(20, new TreeNode(15), new TreeNode(7))
-    )
-  )
-); // [[3],[9,20],[15,7]]
-console.log(levelOrder(new TreeNode(1, null, null))); // [[1]]
-console.log(levelOrder(new TreeNode(null, null, null))); // []
+console.log(levelOrder(constructTree([3, 9, 20, null, null, 15, 7]))); // [[3],[9,20],[15,7]]
+console.log(levelOrder(constructTree([1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]))); // [[1],[2,3],[4,5,6,7],[8,9,10,11,12,13,14,15]]
+console.log(levelOrder(constructTree([]))); // []

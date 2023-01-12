@@ -1,9 +1,6 @@
 // 142. Linked List Cycle II
 
-function ListNode(val) {
-  this.val = val;
-  this.next = null;
-}
+const {ListNode} = require("../utils.js")
 
 /**
  * @param {ListNode} head
