@@ -27,7 +27,15 @@ function TreeNode(val, left, right) {
   this.right = (right === undefined ? null : right);
 }
 
+function Node(val, left, right, next) {
+  this.val = val === undefined ? null : val;
+  this.left = left === undefined ? null : left;
+  this.right = right === undefined ? null : right;
+  this.next = next === undefined ? null : next;
+};
+
 module.exports = {
   constructTree,
-  TreeNode
+  TreeNode,
+  Node
 };
