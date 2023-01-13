@@ -77,6 +77,7 @@ node <folder>/<problem-name>.js
 |1480|[Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/)|[JavaScript](./src/1480.%20Running%20Sum%20of%201d%20Array/v1.js)|Easy|
 |1519|[Number of Nodes in the Sub-Tree With the Same Label](https://leetcode.com/problems/number-of-nodes-in-the-sub-tree-with-the-same-label/)|[JavaScript](./src/1519.%20Number%20of%20Nodes%20in%20the%20Sub-Tree%20With%20the%20Same%20Label/v1.js)|Medium|
 |1833|[Maximum Ice Cream Bars](https://leetcode.com/problems/maximum-ice-cream-bars/)|[JavaScript](./src/1833.%20Maximum%20Ice%20Cream%20Bars/v1.js)|Medium|
+|2246|[Longest Path With Different Adyacent Characters](https://leetcode.com/problems/longest-path-with-different-adyacent-characters/)|[JavaScript](./src/2246.%20Longest%20Path%20With%20Different%20Adyacent%20Characters/v1.js)|Hard|
 
 ## License
 [MIT License](https://choosealicense.com/licenses/mit/)
