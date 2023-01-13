@@ -76,6 +76,7 @@ node <folder>/<problem-name>.js
 |733|[Flood Fill](https://leetcode.com/problems/flood-fill/)|[JavaScript](./src/733.%20Flood%20Fill/v1.js)|Easy|
 |876|[Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)|[JavaScript](./src/876.%20Middle%20of%20the%20Linked%20List/v1.js)|Easy|
 |977|[Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)|[JavaScript](./src/977.%20Squares%20of%20a%20Sorted%20Array/v1.js)|Easy|
+|994|[Rotting Oranges](https://leetcode.com/problems/rotting-oranges/)|[JavaScript](./src/994.%20Rotting%20Oranges/v1.js)|Medium|
 |1443|[Minimum Time to Collect All Apples in a Tree](https://leetcode.com/problems/minimum-time-to-collect-all-apples-in-a-tree/)|[JavaScript](./src/1443.%20Minimum%20Time%20to%20Collect%20All%20Apples%20in%20a%20Tree/v1.js)|Medium|
 |1480|[Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/)|[JavaScript](./src/1480.%20Running%20Sum%20of%201d%20Array/v1.js)|Easy|
 |1519|[Number of Nodes in the Sub-Tree With the Same Label](https://leetcode.com/problems/number-of-nodes-in-the-sub-tree-with-the-same-label/)|[JavaScript](./src/1519.%20Number%20of%20Nodes%20in%20the%20Sub-Tree%20With%20the%20Same%20Label/v1.js)|Medium|
