@@ -35,6 +35,7 @@ node <folder>/<problem-name>.js
 |74|[Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)|[JavaScript](./src/74.%20Search%20a%202D%20Matrix/v1.js)|Medium|
 |83|[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)|[JavaScript](./src/83.%20Remove%20Duplicates%20from%20Sorted%20List/v1.js)|Easy|
 |88|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)|[JavaScript](./src/88.%20Merge%20Sorted%20Array/v1.js)|Easy|
+|94|[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)|[JavaScript](./src/94.%20Binary%20Tree%20Inorder%20Traversal/v1.js)|Easy|
 |98|[Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)|[JavaScript](./src/98.%20Validate%20Binary%20Search%20Tree/v1.js)|Medium|
 |100|[Same Tree](https://leetcode.com/problems/same-tree/)|[JavaScript](./src/100.%20Same%20Tree/v1.js)|Easy|
 |102|[Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)|[JavaScript](./src/102.%20Binary%20Tree%20Level%20Order%20Traversal/v1.js)|Medium|
