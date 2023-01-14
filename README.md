@@ -31,6 +31,7 @@ node <folder>/<problem-name>.js
 |53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)|[JavaScript](./src/53.%20Maximum%20Subarray/v1.js)|Easy|
 |58|[Length of Last Word](https://leetcode.com/problems/length-of-last-word/)|[JavaScript](./src/58.%20Length%20of%20Last%20Word/v1.js)|Easy|
 |66|[Plus One](https://leetcode.com/problems/plus-one/)|[JavaScript](./src/66.%20Plus%20One/v1.js)|Easy|
+|70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)|[JavaScript](./src/70.%20Climbing%20Stairs/v1.js)|Easy|
 |74|[Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)|[JavaScript](./src/74.%20Search%20a%202D%20Matrix/v1.js)|Medium|
 |83|[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)|[JavaScript](./src/83.%20Remove%20Duplicates%20from%20Sorted%20List/v1.js)|Easy|
 |88|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)|[JavaScript](./src/88.%20Merge%20Sorted%20Array/v1.js)|Easy|
