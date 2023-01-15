@@ -39,6 +39,7 @@ node <folder>/<problem-name>.js
 |94|[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)|[JavaScript](./src/94.%20Binary%20Tree%20Inorder%20Traversal/v1.js)|Easy|
 |98|[Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)|[JavaScript](./src/98.%20Validate%20Binary%20Search%20Tree/v1.js)|Medium|
 |100|[Same Tree](https://leetcode.com/problems/same-tree/)|[JavaScript](./src/100.%20Same%20Tree/v1.js)|Easy|
+|101|[Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)|[JavaScript](./src/101.%20Symmetric%20Tree/v1.js)|Easy|
 |102|[Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)|[JavaScript](./src/102.%20Binary%20Tree%20Level%20Order%20Traversal/v1.js)|Medium|
 |104|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)|[JavaScript](./src/104.%20Maximum%20Depth%20of%20Binary%20Tree/v1.js)|Easy|
 |116|[Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/)|[JavaScript](./src/116.%20Populating%20Next%20Right%20Pointers%20in%20Each%20Node/v1.js)|Medium|
