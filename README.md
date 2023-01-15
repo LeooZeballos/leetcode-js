@@ -34,6 +34,7 @@ node <folder>/<problem-name>.js
 |66|[Plus One](https://leetcode.com/problems/plus-one/)|[JavaScript](./src/66.%20Plus%20One/v1.js)|Easy|
 |70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)|[JavaScript](./src/70.%20Climbing%20Stairs/v1.js)|Easy|
 |74|[Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)|[JavaScript](./src/74.%20Search%20a%202D%20Matrix/v1.js)|Medium|
+|77|[Combinations](https://leetcode.com/problems/combinations/)|[JavaScript](./src/77.%20Combinations/v1.js)|Medium|
 |83|[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)|[JavaScript](./src/83.%20Remove%20Duplicates%20from%20Sorted%20List/v1.js)|Easy|
 |88|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)|[JavaScript](./src/88.%20Merge%20Sorted%20Array/v1.js)|Easy|
 |94|[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)|[JavaScript](./src/94.%20Binary%20Tree%20Inorder%20Traversal/v1.js)|Easy|
