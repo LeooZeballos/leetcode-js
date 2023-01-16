@@ -46,6 +46,7 @@ node <folder>/<problem-name>.js
 |112|[Path Sum](https://leetcode.com/problems/path-sum/)|[JavaScript](./src/112.%20Path%20Sum/v1.js)|Easy|
 |116|[Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/)|[JavaScript](./src/116.%20Populating%20Next%20Right%20Pointers%20in%20Each%20Node/v1.js)|Medium|
 |118|[Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)|[JavaScript](./src/118.%20Pascal's%20Triangle/v1.js)|Easy|
+|120|[Triangle](https://leetcode.com/problems/triangle/)|[JavaScript](./src/120.%20Triangle/v1.js)|Medium|
 |121|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)|[JavaScript](./src/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock/v1.js)|Easy|
 |134|[Gas Station](https://leetcode.com/problems/gas-station/)|[JavaScript](./src/134.%20Gas%20Station/v1.js)|Medium|
 |141|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)|[JavaScript](./src/141.%20Linked%20List%20Cycle/v1.js)|Easy|
