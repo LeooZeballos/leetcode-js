@@ -70,6 +70,7 @@ node <folder>/<problem-name>.js
 |387|[First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)|[JavaScript](./src/387.%20First%20Unique%20Character%20in%20a%20String/v2.js)|Easy|
 |392|[Is Subsequence](https://leetcode.com/problems/is-subsequence/)|[JavaScript](./src/392.%20Is%20Subsequence/v1.js)|Easy|
 |409|[Longest Palindrome](https://leetcode.com/problems/longest-palindrome/)|[JavaScript](./src/409.%20Longest%20Palindrome/v1.js)|Easy|
+|424|[Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/)|[JavaScript](./src/424.%20Longest%20Repeating%20Character%20Replacement/v1.js)|Medium|
 |438|[Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/)|[JavaScript](./src/438.%20Find%20All%20Anagrams%20in%20a%20String/v1.js)|Medium|
 |452|[Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/)|[JavaScript](./src/452.%20Minimum%20Number%20of%20Arrows%20to%20Burst%20Balloons/v1.js)|Medium|
 |509|[Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)|[JavaScript](./src/509.%20Fibonacci%20Number/v1.js)|Easy|
