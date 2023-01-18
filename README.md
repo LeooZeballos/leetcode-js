@@ -63,6 +63,7 @@ node <folder>/<problem-name>.js
 |206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)|[JavaScript](./src/206.%20Reverse%20Linked%20List/v1.js)|Easy|
 |217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)|[JavaScript](./src/217.%20Contains%20Duplicate/v1.js)|Easy|
 |226|[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)|[JavaScript](./src/226.%20Invert%20Binary%20Tree/v1.js)|Easy|
+|231|[Power of Two](https://leetcode.com/problems/power-of-two/)|[JavaScript](./src/231.%20Power%20of%20Two/v1.js)|Easy|
 |232|[Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/)|[JavaScript](./src/232.%20Implement%20Queue%20using%20Stacks/v1.js)|Easy|
 |235|[Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)|[JavaScript](./src/235.%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Search%20Tree/v1.js)|Easy|
 |242|[Valid Anagram](https://leetcode.com/problems/valid-anagram/)|[JavaScript](./src/242.%20Valid%20Anagram/v1.js)|Easy|
