@@ -95,6 +95,7 @@ node <folder>/<problem-name>.js
 |733|[Flood Fill](https://leetcode.com/problems/flood-fill/)|[JavaScript](./src/733.%20Flood%20Fill/v1.js)|Easy|
 |746|[Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/)|[JavaScript](./src/746.%20Min%20Cost%20Climbing%20Stairs/v1.js)|Easy|
 |784|[Letter Case Permutation](https://leetcode.com/problems/letter-case-permutation/)|[JavaScript](./src/784.%20Letter%20Case%20Permutation/v1.js)|Medium|
+|844|[Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/)|[JavaScript](./src/844.%20Backspace%20String%20Compare/v1.js)|Easy|
 |876|[Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)|[JavaScript](./src/876.%20Middle%20of%20the%20Linked%20List/v1.js)|Easy|
 |977|[Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)|[JavaScript](./src/977.%20Squares%20of%20a%20Sorted%20Array/v1.js)|Easy|
 |994|[Rotting Oranges](https://leetcode.com/problems/rotting-oranges/)|[JavaScript](./src/994.%20Rotting%20Oranges/v1.js)|Medium|
