@@ -57,6 +57,7 @@ node <folder>/<problem-name>.js
 |149|[Max Points on a Line](https://leetcode.com/problems/max-points-on-a-line/)|[JavaScript](./src/149.%20Max%20Points%20on%20a%20Line/v1.js)|Hard|
 |167|[Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)|[JavaScript](./src/167.%20Two%20Sum%20II%20-%20Input%20array%20is%20sorted/v1.js)|Medium|
 |189|[Rotate Array](https://leetcode.com/problems/rotate-array/)|[JavaScript](./src/189.%20Rotate%20Array/v1.js)|Medium|
+|190|[Reverse Bits](https://leetcode.com/problems/reverse-bits/)|[JavaScript](./src/190.%20Reverse%20Bits/v1.js)|Easy|
 |198|[House Robber](https://leetcode.com/problems/house-robber/)|[JavaScript](./src/198.%20House%20Robber/v1.js)|Medium|
 |200|[Number of Islands](https://leetcode.com/problems/number-of-islands/)|[JavaScript](./src/200.%20Number%20of%20Islands/v1.js)|Medium|
 |203|[Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)|[JavaScript](./src/203.%20Remove%20Linked%20List%20Elements/v1.js)|Easy|
