@@ -92,6 +92,7 @@ node <folder>/<problem-name>.js
 |617|[Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/)|[JavaScript](./src/617.%20Merge%20Two%20Binary%20Trees/v1.js)|Easy|
 |695|[Max Area of Island](https://leetcode.com/problems/max-area-of-island/)|[JavaScript](./src/695.%20Max%20Area%20of%20Island/v1.js)|Medium|
 |700|[Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/)|[JavaScript](./src/700.%20Search%20in%20a%20Binary%20Search%20Tree/v1.js)|Easy|
+|701|[Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/)|[JavaScript](./src/701.%20Insert%20into%20a%20Binary%20Search%20Tree/v1.js)|Medium|
 |704|[Binary Search](https://leetcode.com/problems/binary-search/)|[JavaScript](./src/704.%20Binary%20Search/v1.js)|Easy|
 |724|[Find Pivot Index](https://leetcode.com/problems/find-pivot-index/)|[JavaScript](./src/724.%20Find%20Pivot%20Index/v1.js)|Easy|
 |733|[Flood Fill](https://leetcode.com/problems/flood-fill/)|[JavaScript](./src/733.%20Flood%20Fill/v1.js)|Easy|
