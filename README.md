@@ -72,6 +72,7 @@ node <folder>/<problem-name>.js
 |242|[Valid Anagram](https://leetcode.com/problems/valid-anagram/)|[JavaScript](./src/242.%20Valid%20Anagram/v1.js)|Easy|
 |283|[Move Zeroes](https://leetcode.com/problems/move-zeroes/)|[JavaScript](./src/283.%20Move%20Zeroes/v1.js)|Easy|
 |290|[Word Pattern](https://leetcode.com/problems/word-pattern/)|[JavaScript](./src/290.%20Word%20Pattern/v1.js)|Easy|
+|299|[Bulls and Cows](https://leetcode.com/problems/bulls-and-cows/)|[JavaScript](./src/299.%20Bulls%20and%20Cows/v1.js)|Medium|
 |344|[Reverse String](https://leetcode.com/problems/reverse-string/)|[JavaScript](./src/344.%20Reverse%20String/v1.js)|Easy|
 |350|[Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)|[JavaScript](./src/350.%20Intersection%20of%20Two%20Arrays%20II/v1.js)|Easy|
 |383|[Ransom Note](https://leetcode.com/problems/ransom-note/)|[JavaScript](./src/383.%20Ransom%20Note/v1.js)|Easy|
