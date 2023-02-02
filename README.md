@@ -102,6 +102,7 @@ node <folder>/<problem-name>.js
 |784|[Letter Case Permutation](https://leetcode.com/problems/letter-case-permutation/)|[JavaScript](./src/784.%20Letter%20Case%20Permutation/v1.js)|Medium|
 |844|[Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/)|[JavaScript](./src/844.%20Backspace%20String%20Compare/v1.js)|Easy|
 |876|[Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)|[JavaScript](./src/876.%20Middle%20of%20the%20Linked%20List/v1.js)|Easy|
+|953|[Verifying an Alien Dictionary](https://leetcode.com/problems/verifying-an-alien-dictionary/)|[JavaScript](./src/953.%20Verifying%20an%20Alien%20Dictionary/v1.js)|Easy|
 |977|[Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)|[JavaScript](./src/977.%20Squares%20of%20a%20Sorted%20Array/v1.js)|Easy|
 |994|[Rotting Oranges](https://leetcode.com/problems/rotting-oranges/)|[JavaScript](./src/994.%20Rotting%20Oranges/v1.js)|Medium|
 |1046|[Last Stone Weight](https://leetcode.com/problems/last-stone-weight/)|[JavaScript](./src/1046.%20Last%20Stone%20Weight/v1.js)|Easy|
