@@ -17,6 +17,7 @@ node <folder>/<problem-name>.js
 |2|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)|[JavaScript](./src/2.%20Add%20Two%20Numbers/v1.js)|Medium|
 |3|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)|[JavaScript](./src/3.%20Longest%20Substring%20Without%20Repeating%20Characters/v1.js)|Medium|
 |5|[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)|[JavaScript](./src/5.%20Longest%20Palindromic%20Substring/v1.js)|Medium|
+|7|[Reverse Integer](https://leetcode.com/problems/reverse-integer/)|[JavaScript](./src/7.%20Reverse%20Integer/v1.js)|Medium|
 |9|[Palindrome Number](https://leetcode.com/problems/palindrome-number/)|[JavaScript](./src/9.%20Palindrome%20Number/v1.js)|Easy|
 |13|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/)|[JavaScript](./src/13.%20Roman%20to%20Integer/v1.js)|Easy|
 |14|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)|[JavaScript](./src/14.%20Longest%20Common%20Prefix/v1.js)|Easy|
